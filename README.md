@@ -2,14 +2,16 @@
 
 ## Ports
 ### Drive Motors
-* Right Drive Motor - Port 2
-* Left Drive Motor - Port 3
+* Back Right Drive Motor - Port 2
+* Back Left Drive Motor - Port 3
+* Front Right Drive Motor - Port 4
+* Front Left Drive Motor - Port 5
 ### Intake & Outtake
-* Intake Left - Port 4
-* Intake Right - Port 5
+* Intake Left - Port 6
+* Intake Right - Port 7
 
-* Outtake Left - Port 6
-* Outtake Right - Port 7
+* Outtake Left - Port 8
+* Outtake Right - Port 9
  
  ## Controller Mapping
  ### Drive Modes
